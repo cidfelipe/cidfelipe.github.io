@@ -17,6 +17,7 @@ Me chamo Cid Felipe.
 - Games (multiplataforma - Mega Drive, SNES, WII, Nintendo Switch e PS4).
 - Cinema.
 - Musica.
+- Corredor, treinando para uma meia maratona.
 
 
-Vamos tomar um café?
+_Vamos tomar um café?_
