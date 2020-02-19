@@ -11,11 +11,11 @@ Me chamo Cid Felipe.
 
 Eu me descreveria aqui deste modo:
 
-- Graduação em Análise e Desenvolvimento de Sistemas
-- Especialização em Ciência de Dados, com paixão por Inteligência Artificial, Machine Learning etc...
-- Series (de Lost a Mr. Robot) - não vi e nem vou ver Game of Thrones.
-- Aprendiz de guitarrista e fã do U2 e Guns and Roses
-- Games (multiplataforma - Mega Drive, SNES, WII, Nintendo Switch e PS4.
+- Graduado em: Análise e Desenvolvimento de Sistemas
+- Especialização em: Ciência de Dados, com paixão por Inteligência Artificial, Machine Learning etc...
+- Series (de Lost a Mr. Robot) - não vi e nem vou ver Game of Thrones ;) .
+- Aprendiz de guitarrista e fã do U2.
+- Games (multiplataforma - Mega Drive, SNES, WII, Nintendo Switch e PS4).
 - Cinema.
 - Musica.
 
