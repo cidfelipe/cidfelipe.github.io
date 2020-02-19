@@ -7,7 +7,7 @@ published: true
 
 Me chamo Cid Felipe.
 
-### Eu me descreveria aqui deste modo:
+### Eu me descreveria deste modo:
 
 - Graduado em: Análise e Desenvolvimento de Sistemas
 - Especialização em: Ciência de Dados, com paixão por Inteligência Artificial, Machine Learning etc...
