@@ -1,14 +1,14 @@
 ---
 layout: post
-published: true
-title: Primeiro post
-subtitle: Um pequeno post de apresentação do objetivo desde blog, que é apresentar em forma de artigos pequenos projetos de Data Science, Inteligencia Artificial, Big Data e Tecnologia em geral.
+published: false
+title: Tratamento de dados com R
+subtitle: Um pequeno projeto que realizei para tratamento de dados para Linkage de dados utilizando o LinkPlus.
 ---
 
-### Start
+### Tratando dados com R
 
 
-Neste blog, pretendo publicar em forma de pequenos projetos como parte de meu portfolio, publicarei ainda posts relacionados a duas certifiocações (LPI-1 e PHP) que pretendo tirar em 2020, no mais meus posts serão relacionados à  técnologia da informação tais como desenvolvimento (Python, R, PHP) e assim que possivel JavaScript (planejando aprender em breve), estudo para certificação Linux LPT-1, estudo para a certificação PHP, Big data, Machine Learning, Inteligência Artificial, Linkage de bases de dados.
+Neste artigo vou apresentar um pequeno projeto que fiz utilizando a linguagem de programação R. O objetivo do script criado é realizar um pré processamento de dados para que esses dados possam ser 
 
 
 Até breve! ;)
