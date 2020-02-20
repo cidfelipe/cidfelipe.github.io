@@ -73,7 +73,7 @@ social-network-links:
   github: cidfelipe
   twitter: cid_felipe
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: cidfelipe
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -82,13 +82,13 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: cidfelipe2019
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
