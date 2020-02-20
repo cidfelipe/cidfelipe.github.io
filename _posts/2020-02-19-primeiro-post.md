@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Primeiro post
-subtitle: Um pequeno post de apresentação do objetivo desde blog, que é apresentar em forma de artigos pequenos projetos de Data Science, Inteligencia Artificial, Big Data e Tecnologia em geral.
+subtitle: Um pequeno post de apresentação do objetivo desde blog, que é apresentar em forma de artigos, pequenos projetos de Data Science, Inteligencia Artificial, Big Data e Tecnologia em geral.
 ---
 
 ### Start
